@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/Saransh/Desktop/LeetCode",
       "program": "c:/Users/Saransh/Desktop/LeetCode/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Saransh/Documents/GitHub/Practice",
+      "program": "c:/Users/Saransh/Documents/GitHub/Practice/build/Debug/outDebug",
+>>>>>>> c5f3214f51bf6dd0951dd5e945791687e9d4fcb9
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
